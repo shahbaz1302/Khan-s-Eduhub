@@ -6,7 +6,7 @@
 
 ## 🖥️ Live Demo
 
-👉 [Click here to view the live site](https://khaneduhub.netlify.app) *(optional)*
+👉 [Click here to view the live site](https://khaneduhub.netlify.app)
 
 ---
 
